@@ -1,8 +1,7 @@
 # GitLearning
 I am learning git.
 <br>
-Hello Git ok
-
+Hello Git ok bye see you
 <br>
 hello world
 
